@@ -18,7 +18,7 @@ All docs and design specs for our client-server based chat application to rule t
 * GetUsers
 * GetChannel
 * Auth
-* GetUserDetails
+[* GetUserDetails](https://github.com/TI114/chatserver_docs/blob/getUserDetails/getuserdetails.md)
 
 ### AUTH Methodendefinition
 ```c# 
