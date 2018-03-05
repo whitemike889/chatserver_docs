@@ -9,7 +9,7 @@ All docs and design specs for our client-server based chat application to rule t
   "to": ["String"],
   "msg": "String",
   "method": "String",
-  "CreatedAt": "Datetime",
+  "createdAt": "Datetime",
 }
 ```
 
