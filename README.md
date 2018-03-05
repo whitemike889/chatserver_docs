@@ -19,4 +19,4 @@ All docs and design specs for our client-server based chat application to rule t
 * getChannels
 * auth
 * getUserDetails
-* chat
+* [chat](chat.md)
