@@ -15,7 +15,8 @@ All docs and design specs for our client-server based chat application to rule t
 
 ## Methods
 
-* GetUsers
-* GetChannel
-* Auth
-* GetUserDetails
+* getUsers
+* getChannels
+* auth
+* getUserDetails
+* chat
