@@ -16,10 +16,13 @@ We also need a result for each channel. A count from each Group will be fine.
 ## examples, which result i think what we need
 
 ```JSON
-	{
-		"UserID" : "integer",
-    		"ChannelID" : "integer",
-    		"ConnectionID" : "integer",
-	}
+{
+  "from": "String",
+  "to": ["String"],
+  "msg": "String",
+  "method": "String",
+  "createdAt": "Datetime",
+  "userlist" : ["String"],
+}
 		
 ```
