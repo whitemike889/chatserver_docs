@@ -15,14 +15,5 @@ We also need a result for each channel. A count from each Group will be fine.
 
 ## examples, which result i think what we need
 
-```JSON
-{
-  "from": "String",
-  "to": ["String"],
-  "msg": "String",
-  "method": "String",
-  "createdAt": "Datetime",
-  "userlist" : ["String"],
-}
-		
-```
+The result of the UserList can be written in the msg string of the JSON,
+so that we don't need to modify the JSON Scheme.
