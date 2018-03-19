@@ -17,3 +17,11 @@ In any further connection the credentials will be checked with database entry.
 
 ```
 
+## Example JSON Code
+
+```JSON
+
+{"UserName":"Test","Status":"offline","clientipAddress":"127.0.0.1","connectId":null,"passwort":"A12345"}
+
+```
+
