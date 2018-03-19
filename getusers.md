@@ -17,3 +17,11 @@ We also need a result for each channel. A count from each Group will be fine.
 
 The result of the UserList can be written in the msg string of the JSON,
 so that we don't need to modify the JSON Scheme.
+
+## Result
+
+Delimiter will be | in Username, so you can pipe sperated in JSON scheme, to list the user. A user does not have a | in 
+his Username.
+
+method: getUsers #channelxyz to give a list of the channel. If there is no direct channel #  called in the method, all user 
+will be listed.
