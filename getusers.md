@@ -20,8 +20,8 @@ so that we don't need to modify the JSON Scheme.
 
 ## Result
 
-Delimiter will be | in Username, so you can pipe sperated in JSON scheme, to list the user. A user does not have a | in 
-his Username.
+Delimiter will be | between Usernames, that we can filter each user, which is | seperated , to list the user. A user does 
+not contain a | symbol in the username.
 
 method: getUsers #channelxyz to give a list of the channel. If there is no direct channel #  called in the method, all user 
 will be listed.
