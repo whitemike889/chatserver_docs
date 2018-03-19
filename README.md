@@ -26,3 +26,4 @@ All docs and design specs for our client-server based chat application to rule t
 * auth
 * getUserDetails
 * [chat](chat.md)
+* [setState](setState.md]
