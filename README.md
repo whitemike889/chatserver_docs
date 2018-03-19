@@ -24,5 +24,5 @@ All docs and design specs for our client-server based chat application to rule t
 * [getUsers](getusers.md)
 * getChannels
 * auth
-* getUserDetails
+* [getUserDetails](getuserdetails.md)
 * [chat](chat.md)
